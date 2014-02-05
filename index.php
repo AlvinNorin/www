@@ -8,7 +8,7 @@
 
 
 
-<h1 style="background-color:#e74c3c;">Welcome to PrimaBook.TK </h1>  
+<h1 style="position: absolute; left: 0%; top: 0%; width: 100%; height: 5%; background-color:#e74c3c;">Welcome to PrimaBook.TK </h1>  
 
 
 <button onclick="window.location.href='https://www.google.se/'">Home</button>
